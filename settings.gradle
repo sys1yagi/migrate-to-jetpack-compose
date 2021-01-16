@@ -1,2 +1,5 @@
 rootProject.name = "migrate-to-jetpack-compose"
-include ':app'
+include ':normal'
+include ':domain'
+include ':infrastructure'
+include ':viewmodel'
