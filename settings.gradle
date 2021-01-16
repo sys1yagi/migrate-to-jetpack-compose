@@ -1,0 +1,2 @@
+rootProject.name = "migrate-to-jetpack-compose"
+include ':app'
